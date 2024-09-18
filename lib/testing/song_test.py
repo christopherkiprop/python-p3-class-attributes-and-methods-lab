@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 
 from song import Song
 
